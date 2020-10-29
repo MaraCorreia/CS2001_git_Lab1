@@ -21,6 +21,11 @@ Lets get started.
 
 Student ID | Movie | Year of Release
 --- | --- | ---
+1825257|American Beauty|1999
+1825257|The platform|2019
+1825257|The people under the stairs|1991
+1825257|Nerve|2016
+1825257|Would you rather|2012
 1822554| Shrek |2001
 1822554|Annabelle|2014
 1822554| Borat| 2006
